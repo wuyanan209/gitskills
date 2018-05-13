@@ -1,1 +1,1 @@
-wynTest1 is good boy
+wynTest is good boy
